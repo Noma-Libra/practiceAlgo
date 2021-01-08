@@ -12,7 +12,6 @@ function solution(N, relation, dirname) {
       return obj;
     }, {});
 
-  path = [];
   while (path.length !== N) {}
 
   return answer;
